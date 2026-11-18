@@ -1,0 +1,4 @@
+# One hashtag per line, without the leading "#" (either form works).
+# Instagram allows 30 UNIQUE hashtags per business account per rolling 7 days.
+# Pick a balanced list: include tags used by every side of each issue you track.
+# Lines starting with "# " are comments.

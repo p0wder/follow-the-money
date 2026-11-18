@@ -1,0 +1,3 @@
+# Search terms for the Meta Ad Library, one per line.
+# Use the same topics as your hashtag list, phrased neutrally, and cover every side.
+# Lines starting with "# " are comments.

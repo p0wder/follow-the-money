@@ -1,0 +1,21 @@
+[project]
+name = "follow-the-money"
+version = "0.1.0"
+description = "Surface coordinated Instagram messaging and link it to who is paying for it."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+ftm = "ftm.cli:main"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["ftm"]
